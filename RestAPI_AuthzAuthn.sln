@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPI_AuthzAuthn", "RestAPI_AuthzAuthn\RestAPI_AuthzAuthn.csproj", "{8C495D76-D999-45BC-AEC0-C63FFE987511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C495D76-D999-45BC-AEC0-C63FFE987511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C495D76-D999-45BC-AEC0-C63FFE987511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C495D76-D999-45BC-AEC0-C63FFE987511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C495D76-D999-45BC-AEC0-C63FFE987511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF28F1D-A57E-48A1-9108-8FDD0E714C95}
+	EndGlobalSection
+EndGlobal
